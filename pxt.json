@@ -1,5 +1,5 @@
 {
-    "name": "Radio Send",
+    "name": "Robobit Transmitter",
     "description": "",
     "dependencies": {
         "core": "*",
